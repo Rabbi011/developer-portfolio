@@ -20,7 +20,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange,tomato);
+    background-image: linear-gradient(#df977e,rgb(255, 99, 71));
     padding: 10px 40px;
     color: wheat;
     font-weight: 700;
